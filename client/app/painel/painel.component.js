@@ -29,4 +29,4 @@ var PainelComponent = (function () {
     return PainelComponent;
 }());
 exports.PainelComponent = PainelComponent;
-//# sourceMappingURL=painel.component.js.map
+//# sourceMappingURL=Painel.component.js.map
